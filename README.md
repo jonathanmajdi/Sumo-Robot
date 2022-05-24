@@ -20,8 +20,7 @@ This project runs on a node mcu esp8266 micro controller.
 - Double sided tape
 
 # The Build:
+For the build follow this video tutorial.
 
 # Software:
-
-
-
+Uploading the software to the sumo robot will require Arduino IDE to be installed on your computer.
