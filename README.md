@@ -23,5 +23,5 @@ This project runs on a node mcu esp8266 micro controller.
 For the build follow this video tutorial.
 
 # Software:
-Uploading the software to the sumo robot will require Arduino IDE to be installed on your computer.
+Uploading the software to the sumo robot will require Arduino IDE to be installed on your computer. <br/>
 Set up blynk [blynk](https://blynk.cloud/dashboard/register)
