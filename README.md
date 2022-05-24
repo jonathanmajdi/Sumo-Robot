@@ -1,6 +1,7 @@
 # Sumo-Robot:
-This sumo robot project runs on Arduino.
-This project runs on a node mcu esp8266 micro controller.
+This sumo robot project runs on Arduino. <br/>
+This project runs on a node mcu esp8266 micro controller. <br/>
+They are 2 versions of this code one for autonomous mode and one for manually controlling the robot via the blynk app.
 
 # Parts List:
 - 3d printed chassis
