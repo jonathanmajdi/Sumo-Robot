@@ -24,3 +24,4 @@ For the build follow this video tutorial.
 
 # Software:
 Uploading the software to the sumo robot will require Arduino IDE to be installed on your computer.
+Set up blynk [blynk](https://blynk.cloud/dashboard/register)
